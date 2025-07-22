@@ -41,6 +41,38 @@ This is a full-stack dashboard application built for the **Anyware Software Full
 
 ---
 
+## Getting Started
+
+### Prerequisites
+
+- Node.js v16+ (recommended)
+- npm or yarn package manager
+
+### Installation
+
+1. Clone this repository or download the source code
+2. Run:
+
+    Install dependencies for both the frontend and backend:
+
+    ```bash
+    npm install
+    ```
+
+    To run the frontend, use:
+
+    ```bash
+    npm run dev
+    ```
+
+    To run the backend, use:
+
+    ```bash
+    npm start
+    ```
+
+    Builds the app and packages it
+
 ## 📁 Folder Structure
 
 <pre><code>```
